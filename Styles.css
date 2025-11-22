@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #fef9f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #D4AF37;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #D4AF37;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: #c59d2b;
+}
+
+#signalOutput {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
